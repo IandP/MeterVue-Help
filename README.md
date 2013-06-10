@@ -5,4 +5,4 @@ MeterVue Help
 
 Help is currently available in english only.
 
-If you are interested in help[ing us translate to your language, please contact justin.wignall@iandp.net
+If you are interested in helping us translate to your language, please contact justin.wignall@iandp.net
